@@ -1,0 +1,6 @@
+1) run zookeeper 
+2) run kafka-server
+3) run env setup start.sh
+4) run producer
+5) run consumer
+6) run spark-submit
